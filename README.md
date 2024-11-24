@@ -67,3 +67,15 @@ Account Persistence: Saving account data to a database or file.
 Enhanced Security: Implementing secure hashing for PINs.
 Multiple Transaction Statements: Display more than the last five transactions.
 Internationalization: Support for multiple languages.
+TASK - 2
+Task Completed as a Python Programming Intern at Brainwave Matrix Solutions! 🎉
+I’m thrilled to share that I’ve successfully completed my task of developing a fully functional Inventory Management System using Python! This project gave me a fantastic opportunity to apply my programming knowledge to solve real-world challenges. 🛠💻
+
+Project Highlights:
+🔒 User Authentication: Implemented secure login functionality to protect inventory data.
+📊 Core Features: Adding, editing, deleting products, inventory tracking, and generating low-stock alerts.
+🎨 User-Friendly Interface: Designed a GUI using Tkinter for seamless interaction and better usability.
+✅ Data Validation: Ensured error-free product management and input handling.
+This experience helped me deepen my understanding of Python programming, GUI design, and building solutions that meet real-world requirements. Excited to take on more challenges and grow further in my journey at Brainwave Matrix Solutions! 🚀
+
+#Python #Internship #TaskCompletion #BrainwaveMatrixSolutions #InventoryManagement #Programming #TechJourney #Learning #Coding
